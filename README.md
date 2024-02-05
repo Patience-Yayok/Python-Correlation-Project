@@ -10,6 +10,10 @@ movie industry, and get answers.
 ###Data Sources
 https://www.kaggle.com/datasets/danielgrijalvas/movies
 
+
+<img width="773" alt="Scatter plot" src="https://github.com/godiyap/Python-Correlation-Project/assets/158599025/99305411-c375-4a08-a0c8-34a125ddf81f">
+
+
 ### Content
 There are 6820 movies in the dataset (220 movies per year, 1986-2016). Each movie has the following attributes:
 ###Tools
