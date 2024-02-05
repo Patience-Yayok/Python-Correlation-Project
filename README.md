@@ -1,4 +1,4 @@
-# MOVIE Analysis
+# Movie Analysis
 documentation on Python correlation project
 About Dataset
 ####Project overview
@@ -11,7 +11,10 @@ https://www.kaggle.com/datasets/danielgrijalvas/movies
 
 ###Content
 There are 6820 movies in the dataset (220 movies per year, 1986-2016). Each movie has the following attributes:
+###Tools
+-Python:this was used for data cleaning and visualization
 
+[Download here](https://www.anaconda.com/download)
 budget: the budget of a movie. Some movies don't have this, so it appears as 0
 
 company: the production company
