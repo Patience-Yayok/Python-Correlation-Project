@@ -2,7 +2,7 @@
 Documentation on Python correlation project
 About Dataset
 
-####Project overview
+#### Project overview
 Is the movie industry dying? is Netflix the new entertainment king? Those were the first questions that lead me to create a dataset
 focused on movie revenue and analyze it over the last decades. But, why stop there? There are more factors that intervene in this
 kind of thing, like actors, genres, user ratings and more. And now, anyone with experience (you) can ask specific questions about the
@@ -10,7 +10,7 @@ movie industry, and get answers.
 ###Data Sources
 https://www.kaggle.com/datasets/danielgrijalvas/movies
 
-###Content
+### Content
 There are 6820 movies in the dataset (220 movies per year, 1986-2016). Each movie has the following attributes:
 ###Tools
 -Python: this was used for data cleaning and visualization
@@ -49,7 +49,7 @@ writer: writer of the movie
 
 year: year of release
 
-###Data Cleaning and Wranglig
+### Data Cleaning and Wranglig
 1.import the packages we will use in this project
 2.import the Data we will use in this project
 3.Check for any missing data
@@ -58,11 +58,11 @@ year: year of release
 6.Are there any Outliers?
 7.Remove Duplicates
 
-###Exploratory Data Analysis
+### Exploratory Data Analysis
 1.What is the correlation between Budget and Gross Earnings
 2.What is the degree of correlation between both
 
-###Data Analysis
+### Data Analysis
 python
 ```correlation_matrix = df_numerized.corr(method='pearson')
 sns.heatmap(correlation_matrix,annot=True)
