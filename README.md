@@ -66,9 +66,6 @@ year: year of release
 1. What is the correlation between Budget and Gross Earnings
 2. What is the degree of correlation between both
 
-   <img width="773" alt="Scatter plot" src="https://github.com/godiyap/Python-Correlation-Project/assets/158599025/3de89c8f-2244-40d7-81b0-034402e2da4b">
-
-
 ### Results/Findings
 We found a high correlation of 0.632 between votes and gross revenue.
 
