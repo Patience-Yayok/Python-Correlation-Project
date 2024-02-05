@@ -71,7 +71,7 @@ plt.xlabel('Mpvie Features')
 plt.ylabel('Movie feature') 
 plt.show()```
 
-###Results/Findings
+### Results/Findings
 We found that there is a high correlation of 0.632 between votes and gross revenue.
 
 
